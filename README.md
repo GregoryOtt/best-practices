@@ -33,8 +33,8 @@ Pour simplifier vos recherches, n'oubliez pas d’utiliser les filtres disponibl
 
 * [Retenir uniquement les fonctionnalités essentielles](/chapters/BP_001_fr.md)
 * [Quantifier précisément le besoin](/chapters/BP_002_fr.md)
-* [Optimiser le parcours utilisateur](/chapters/BP_003_fr.md)
 * [Préférer la saisie assistée à l'autocomplétion](/chapters/BP_004_fr.md)
+* [Optimiser le parcours utilisateur](/chapters/BP_005_fr.md)
 * [Privilégier une approche "mobile first", à défaut un chargement adaptatif](/chapters/BP_006_fr.md)
 * [Respecter le principe de navigation rapide dans l’historique](/chapters/BP_007_fr.md)
 * [Proposer un traitement asynchrone lorsque c'est possible](/chapters/BP_008_fr.md)
