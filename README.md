@@ -31,7 +31,7 @@ Pour simplifier vos recherches, n'oubliez pas d’utiliser les filtres disponibl
 
 ## La liste des Bonnes Pratiques
 
-* [Éliminer les fonctionnalités non essentielles](/chapters/BP_001_fr.md)
+* [Retenir uniquement les fonctionnalités essentielles](/chapters/BP_001_fr.md)
 * [Quantifier précisément le besoin](/chapters/BP_002_fr.md)
 * [Optimiser le parcours utilisateur](/chapters/BP_003_fr.md)
 * [Préférer la saisie assistée à l'autocomplétion](/chapters/BP_004_fr.md)

@@ -1,10 +1,10 @@
-## Éliminer les fonctionnalités non essentielles
+## Retenir uniquement les fonctionnalités essentielles
 
 ### Identifiants
 
 | GreenIT |  V2  |  V3  |  V4  |
 |:-------:|:----:|:----:|:----:|
-|   109   | 1  | 1  |      |
+|   109   | 1    | 1    | 1    |
 
 ### Catégories
 
