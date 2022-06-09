@@ -36,7 +36,7 @@ Pour simplifier vos recherches, n'oubliez pas d’utiliser les filtres disponibl
 * [Préférer la saisie assistée à l'autocomplétion](/chapters/BP_004_fr.md)
 * [Optimiser le parcours utilisateur](/chapters/BP_005_fr.md)
 * [Privilégier une approche "mobile first", à défaut un chargement adaptatif](/chapters/BP_006_fr.md)
-* [Proposer un traitement asynchrone lorsque c'est possible](/chapters/BP_008_fr.md)
+* [Proposer un traitement asynchrone lorsque c'est possible](/chapters/BP_007_fr.md)
 * [Respecter le principe de navigation rapide dans l’historique](/chapters/BP_008_fr.md)
 * [Limiter le nombre de requêtes HTTP](/chapters/BP_009_fr.md)
 * [Stocker les données statiques localement](/chapters/BP_010_fr.md)
